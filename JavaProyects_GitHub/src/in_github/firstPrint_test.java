@@ -14,7 +14,7 @@ package in_github;
  *
  * @author lcalv
  */
-public class firstPrint {
+public class firstPrint_test {
 
     /**
      * @param args the command line arguments
@@ -25,6 +25,10 @@ public class firstPrint {
 
 	//Texto añadido
 	System.out.println("Colibri in line");
+        
+        //fecha añadida
+        System.out.println("Fecha creación: 05/05/2021");
+        
     }
     
 }
